@@ -1,0 +1,28 @@
+{
+  "name": "pitt-hackathon-2023-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sl707/pitt-hackathon-2023-backend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sl707/pitt-hackathon-2023-backend/issues"
+  },
+  "homepage": "https://github.com/sl707/pitt-hackathon-2023-backend#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "http": "^0.0.1-security",
+    "mongodb": "^6.1.0",
+    "mongoose": "^7.5.2",
+    "path": "^0.12.7"
+  }
+}
